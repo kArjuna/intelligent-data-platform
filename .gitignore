@@ -1,0 +1,19 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Spark
+spark-warehouse/
+metastore_db/
+
+# Airflow
+airflow/
+logs/
+
+# Data
+data/raw/
+data/output/
+
+# Mac
+.DS_Store
