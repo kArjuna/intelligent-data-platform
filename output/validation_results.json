@@ -1,0 +1,16 @@
+{
+    "schema_validation": true,
+    "null_check": {
+        "order_id": 0,
+        "product": 0,
+        "category": 0,
+        "price": 0,
+        "quantity": 0
+    },
+    "duplicate_count": 0,
+    "reconciliation": {
+        "source_count": 8,
+        "target_count": 8,
+        "difference": 0
+    }
+}

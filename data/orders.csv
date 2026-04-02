@@ -1,0 +1,9 @@
+order_id,product,category,price,quantity
+1,iPhone,Electronics,999,1
+2,Shoes,Fashion,120,2
+3,Laptop,Electronics,1500,1
+4,T-shirt,Fashion,25,3
+5,Headphones,Electronics,199,2
+6,Watch,Fashion,250,1
+7,Tablet,Electronics,600,1
+8,Jacket,Fashion,180,2

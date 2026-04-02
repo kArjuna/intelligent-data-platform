@@ -1,6 +1,8 @@
-pyspark==3.5.1
-apache-airflow==2.9.1
+pyspark
+apache-airflow
+neo4j
 pandas
 streamlit
-neo4j
 pytest
+requests
+pyyaml
