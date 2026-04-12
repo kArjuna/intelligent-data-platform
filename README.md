@@ -261,6 +261,22 @@ MATCH (n) RETURN n
 * Developed lineage tracking using Neo4j
 * Created interactive dashboards using Streamlit
 
+
+
+
+## Real-Time Streaming Extension
+
+The platform was extended with Kafka-based real-time ingestion for order events.
+
+### Streaming Flow
+Kafka Producer -> Kafka Topic (`orders_stream`) -> Spark Structured Streaming Consumer -> Bronze -> Silver -> Gold
+
+### Streaming Outputs
+- `output/streaming/orders_bronze`
+- `output/streaming/orders_silver`
+- `output/streaming/orders_gold`
+
+
 ---
 
 ## 👨‍💻 Author

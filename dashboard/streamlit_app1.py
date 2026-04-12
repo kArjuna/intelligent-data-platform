@@ -198,3 +198,29 @@ st.markdown("""
 - `product_metrics`
 - `revenue_by_category`
 """)
+
+# =========================
+# 8. Streaming Layer Status
+# =========================
+
+st.markdown("---")
+st.header("8. Streaming Layer Status")
+
+streaming_paths = {
+    "Bronze": "output/streaming/orders_bronze",
+    "Silver": "output/streaming/orders_silver",
+    "Gold": "output/streaming/orders_gold"
+}
+
+stream_status = {
+    "Layer": [],
+    "Available": []
+}
+
+for layer, path in streaming_paths.items():
+    stream_status["Layer"].append(layer)
+    stream_status["Available"].append(
+        "Working" if os.path.exists(path) and len(os.listdir(path)) > 0 else "Not Working"
+    )
+
+st.table(pd.DataFrame(stream_status))
