@@ -1,0 +1,100 @@
+customer_id,customer_name,email,city,country
+1,Wanda Rodriguez,gina52@example.net,Hillborough,Mexico
+2,Kyle Cabrera,dawnjenkins@example.org,Wrightview,Solomon Islands
+3,Ashley Malone,hooperdaniel@example.org,Merrittmouth,American Samoa
+4,Amanda Gallegos,zgregory@example.com,Freyborough,Oman
+5,Kevin Harris,kcollins@example.org,Petersland,Algeria
+6,Kristin Vaughn,teresa09@example.com,Mooretown,Guyana
+7,Robert Dyer,elizabeth11@example.com,Lake Gina,Zimbabwe
+8,Ashley Oneal,alexandergregory@example.net,Smithfort,Zimbabwe
+9,Sharon Jones,rosariobrenda@example.org,Marioshire,United Arab Emirates
+10,Derrick Moyer,fritzmisty@example.com,East Courtney,Northern Mariana Islands
+11,Henry Patterson,mendozachristine@example.org,South Bethview,Egypt
+12,John Flores,bautistamindy@example.net,West Stephanie,Chad
+13,Jacqueline Smith,johnflores@example.com,Port Ryan,Sierra Leone
+14,Maureen Perez,david25@example.net,Rachelmouth,Greece
+15,Jose Cox,emoore@example.org,Michaeltown,San Marino
+16,Stacey Spencer,sanchezryan@example.com,West Robert,Japan
+17,Lauren Hall,cwilliamson@example.net,East Melissa,Martinique
+18,Brittany Beasley,paige44@example.com,Frederickburgh,Iceland
+19,Christine Gates,stephaniehuber@example.org,Janefort,Cocos (Keeling) Islands
+20,Kara Rowe,spencereric@example.org,Rebekahport,Gabon
+21,Donald Fowler,zachary17@example.net,Johnsonton,American Samoa
+22,Christina Martin,gordonamber@example.net,Chandlerville,Bosnia and Herzegovina
+23,Thomas Brown,stevensreginald@example.com,East Stephaniemouth,Montserrat
+24,Hunter Hooper,millerkevin@example.net,Justinside,United States Minor Outlying Islands
+25,Michelle Martin,mckenzie14@example.org,Andradeborough,Burkina Faso
+26,Joseph Thomas,dominique75@example.com,Wheelerside,Grenada
+27,Shannon Frost,daviscarrie@example.org,Port Kevin,Tanzania
+28,Ian Smith,amandagarcia@example.net,Bellfurt,Chile
+29,Benjamin Juarez,keith55@example.com,Patriciamouth,Colombia
+30,Darrell Brooks,vvaughan@example.com,South Stacey,Hong Kong
+31,Micheal Wilson,frankgregory@example.com,Avilashire,Austria
+32,Jennifer Bowen,nkline@example.org,East Tanyaville,Qatar
+33,Melanie Wilson,kylecolon@example.net,South Paul,Taiwan
+34,Brian Thomas,tracy91@example.net,East Joseph,Wallis and Futuna
+35,Timothy Brown,james02@example.com,West Kathrynmouth,Saint Lucia
+36,Sean Olson,angelasloan@example.com,North Brianshire,Venezuela
+37,Chase Watts,alexanderlee@example.org,East Aarontown,Saint Lucia
+38,Kelsey Figueroa,nicholastaylor@example.org,Jerryhaven,Christmas Island
+39,Shannon Ramos,osbornetara@example.net,Wandaport,Grenada
+40,Vanessa Smith,madeline04@example.org,North Gailmouth,Bhutan
+41,Julie Chan,russell22@example.net,Bethburgh,Tonga
+42,Ryan Sloan,diazpatrick@example.net,Frankstad,Papua New Guinea
+43,Cynthia Meyer,jamesduran@example.net,Port Russell,Denmark
+44,Leonard Bernard,nelsonjared@example.org,West Lisaville,Reunion
+45,Taylor Prince,sanderscraig@example.net,Lake Michael,Ecuador
+46,Caitlyn Nixon,bthomas@example.net,North Scottfort,Dominican Republic
+47,Robert Hartman,kellerjenna@example.com,South Jeffreyport,Mongolia
+48,Andrea Flores,gregorythomas@example.com,North Kelly,Saint Pierre and Miquelon
+49,Cody Lewis,robbinsbeverly@example.net,East Jonathan,Slovenia
+50,Michelle Frazier,floresmichael@example.org,Kevinville,Falkland Islands (Malvinas)
+51,Alexandria Matthews,michelle21@example.com,Port Marissa,Christmas Island
+52,Elizabeth Meza,shawjohn@example.com,New Dominicstad,Cuba
+53,Hunter Fuller,xhernandez@example.org,West Maryshire,Korea
+54,Charles Russell,kortiz@example.net,Lake Brittanyberg,Malawi
+55,Michael Carlson,jessica95@example.net,Port Donald,Marshall Islands
+56,Alex Davenport,patrickrivera@example.org,Lake Kristaside,Grenada
+57,Anthony Reeves,christinelarson@example.com,North Pamela,Nepal
+58,Blake Stevens,christinagentry@example.org,Jordanhaven,Guatemala
+59,Maria Hicks,suttonwilliam@example.org,North Christopher,Trinidad and Tobago
+60,Alan Skinner,debrachase@example.com,Port Patriciaview,Italy
+61,Sierra Krause,kim79@example.net,Brownmouth,Gabon
+62,John Lopez,jeffrey64@example.org,New Alexander,Bhutan
+63,Rebecca Brown,halljeffrey@example.com,North Wesleymouth,Senegal
+64,Joseph Howard,rachellynch@example.org,Millerside,Kazakhstan
+65,Amanda Johnson,stephenhernandez@example.net,Lake Crystal,Georgia
+66,Charles Campbell,jasonhunt@example.net,Robertsland,Liechtenstein
+67,Brian James,brenda65@example.com,Kirbyfort,Jersey
+68,Michael Anderson,douglasclark@example.com,Karenborough,Samoa
+69,Arthur Estrada,dpayne@example.org,South Mark,Australia
+70,Dylan Ramos,taylorshawn@example.net,South Cody,Reunion
+71,Heather Hurst,robinsonalisha@example.org,West Valerieside,Hungary
+72,Willie Jones,laurenmosley@example.org,New Susanhaven,Costa Rica
+73,Bradley Allen,justin29@example.org,Matthewville,Burundi
+74,Christopher Hall,rgarcia@example.com,Lake Amyton,Palestinian Territory
+75,Justin Frost,pmarsh@example.org,Lawrencefort,Falkland Islands (Malvinas)
+76,Kelly Hill,jeremymolina@example.net,Brownport,Solomon Islands
+77,Teresa Miller,choffman@example.net,West Richardville,Somalia
+78,Yolanda Clark,phayes@example.org,South Richardview,Honduras
+79,Lisa Green,bdiaz@example.net,East Kelseystad,Albania
+80,Andrea Rojas,markperez@example.org,West Angela,China
+81,Gina Delacruz,kevin07@example.com,Port Tinaview,Haiti
+82,Cody Gonzales,melissafarrell@example.org,West Bethport,Saint Pierre and Miquelon
+83,Shari Riley,michael45@example.net,West Amandamouth,Malawi
+84,Robert Carpenter,shannoncook@example.org,Danaville,Gibraltar
+85,Tommy Kline,esanders@example.com,East Rachel,Montserrat
+86,Carlos Henderson,juliajordan@example.net,Andrewport,Lao People's Democratic Republic
+87,Samuel Richardson,david00@example.org,South Jamesburgh,Solomon Islands
+88,Kimberly Padilla,james56@example.com,Port Nicholasview,Marshall Islands
+89,Brooke Morris,richardroach@example.net,New Feliciashire,Croatia
+90,Tamara Smith,harrisonnicole@example.org,North Kevinstad,Andorra
+91,John Hickman,laurarobinson@example.net,Marisafurt,Brazil
+92,Rebecca Warren,william98@example.org,West Mathew,Bulgaria
+93,Isaiah Baker,jeffreyjohnson@example.net,West Calvin,Italy
+94,Eugene Miller,emily44@example.net,Michelletown,Gambia
+95,Erin Eaton,ariel64@example.com,Eduardochester,Jamaica
+96,Adam Yu,tpowell@example.org,Judyborough,Sierra Leone
+97,Bobby Crawford,mnichols@example.com,Port Bradley,Norway
+98,Renee Freeman,ubishop@example.com,East John,India
+99,Jamie Garner,orozcoann@example.com,New Chelseytown,Peru
