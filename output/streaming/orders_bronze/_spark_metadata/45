@@ -1,2 +1,0 @@
-v1
-{"path":"file:///opt/airflow/output/streaming/orders_bronze/part-00000-4e12d81e-acb4-42a3-bf2c-9a3832ace059-c000.snappy.parquet","size":1836,"isDir":false,"modificationTime":1776107892978,"blockReplication":1,"blockSize":33554432,"action":"add"}

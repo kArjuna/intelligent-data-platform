@@ -1,7 +1,0 @@
-v1
-{"path":"file:///opt/airflow/output/streaming/orders_silver/part-00000-59db2797-2371-4315-9e2b-2ff3fbb406af-c000.snappy.parquet","timestamp":1776107868287,"batchId":8}
-{"path":"file:///opt/airflow/output/streaming/orders_silver/part-00000-b06305b2-0d14-4d2e-be8d-b51a3f9d11e2-c000.snappy.parquet","timestamp":1776107869724,"batchId":8}
-{"path":"file:///opt/airflow/output/streaming/orders_silver/part-00000-25c72949-9600-41b9-b5d8-03dd8994aa3e-c000.snappy.parquet","timestamp":1776107870200,"batchId":8}
-{"path":"file:///opt/airflow/output/streaming/orders_silver/part-00000-86727418-a71e-4624-920b-487cb3e3ac97-c000.snappy.parquet","timestamp":1776107871503,"batchId":8}
-{"path":"file:///opt/airflow/output/streaming/orders_silver/part-00000-68527eb6-0fa1-4292-8959-a854995aaf4c-c000.snappy.parquet","timestamp":1776107872203,"batchId":8}
-{"path":"file:///opt/airflow/output/streaming/orders_silver/part-00000-8198fc43-a4c6-4518-9c3a-b03a3c6b8bc4-c000.snappy.parquet","timestamp":1776107873333,"batchId":8}

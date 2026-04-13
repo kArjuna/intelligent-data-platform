@@ -1,6 +1,0 @@
-v1
-{"path":"file:///opt/airflow/output/streaming/orders_silver/part-00000-bdd63deb-ccf0-416d-bae0-c7e9b8614aac-c000.snappy.parquet","timestamp":1776012798417,"batchId":0}
-{"path":"file:///opt/airflow/output/streaming/orders_silver/part-00001-eb2762fe-e23b-483d-b8e6-d9668448aa2b-c000.snappy.parquet","timestamp":1776012798418,"batchId":0}
-{"path":"file:///opt/airflow/output/streaming/orders_silver/part-00000-6900500c-e453-4632-b631-3d4090d431fb-c000.snappy.parquet","timestamp":1776017652744,"batchId":0}
-{"path":"file:///opt/airflow/output/streaming/orders_silver/part-00000-2a56d711-eae9-4ad6-b16f-dbab36c14958-c000.snappy.parquet","timestamp":1776017653781,"batchId":0}
-{"path":"file:///opt/airflow/output/streaming/orders_silver/part-00000-9b185c13-4b77-49a1-8612-2b326c7c401a-c000.snappy.parquet","timestamp":1776017654594,"batchId":0}

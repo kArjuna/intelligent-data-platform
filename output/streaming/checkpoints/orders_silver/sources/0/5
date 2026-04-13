@@ -1,4 +1,0 @@
-v1
-{"path":"file:///opt/airflow/output/streaming/orders_bronze/part-00000-b6b3d812-a033-4240-9526-8c1571db487f-c000.snappy.parquet","timestamp":1776029531241,"batchId":5}
-{"path":"file:///opt/airflow/output/streaming/orders_bronze/part-00000-7b7d635c-607b-4fb4-8a87-2d1304ec7c25-c000.snappy.parquet","timestamp":1776029531954,"batchId":5}
-{"path":"file:///opt/airflow/output/streaming/orders_bronze/part-00000-773bbc62-afe4-4aab-8c0f-69c0d956724b-c000.snappy.parquet","timestamp":1776029532981,"batchId":5}
