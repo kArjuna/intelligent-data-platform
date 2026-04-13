@@ -210,16 +210,29 @@ st.markdown("---")
 # =========================
 st.header("8. Streaming Layer Status")
 
-stream_status_df = pd.DataFrame({
-    "Layer": ["Bronze", "Silver", "Gold"],
-    "Available": [
-        "Yes" if folder_exists_with_files(streaming_bronze_dir) else "No",
-        "Yes" if folder_exists_with_files(streaming_silver_dir) else "No",
-        "Yes" if folder_exists_with_files(streaming_gold_dir) else "No",
-    ]
-})
+streaming_paths = {
+    "Bronze": "output/streaming/orders_bronze",
+    "Silver": "output/streaming/orders_silver",
+    "Gold": "output/streaming/orders_gold"
+}
 
-st.table(stream_status_df)
+stream_status = {
+    "Layer": [],
+    "Available": []
+}
+
+# print(pd.read_parquet("output/streaming/orders_gold"))
+# print(pd.read_parquet("output/streaming/orders_silver"))
+# print(pd.read_parquet("output/streaming/orders_bronze"))
+
+
+for layer, path in streaming_paths.items():
+    stream_status["Layer"].append(layer)
+    stream_status["Available"].append(
+        "Working Fine" if os.path.exists(path) and len(os.listdir(path)) > 0 else "Not Working"
+    )
+
+st.table(pd.DataFrame(stream_status))
 
 st.markdown("---")
 

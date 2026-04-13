@@ -1,0 +1,2 @@
+v1
+{"path":"file:///opt/airflow/output/streaming/orders_silver/part-00000-21ec3334-997c-4f54-8a49-0b745dab1b1d-c000.snappy.parquet","timestamp":1776107893308,"batchId":28}
