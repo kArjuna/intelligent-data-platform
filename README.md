@@ -293,14 +293,14 @@ This project demonstrates a production-style data platform integrating ingestion
 docker compose -f docker/docker-compose.yml up -d
 docker exec -it airflow airflow users reset-password \\n  --username admin \\n  --password admin\n
 docker compose -f docker/docker-compose.yml restart airflow
-ls pipelines/transformations\ndocker exec -it airflow ls /opt/airflow/pipelines/transformations
-pip install pyarrow
-streamlit run dashboard/streamlit_app1.py
-source /Users/mallikarjuna/Downloads/projects/intelligent-data-platform/venv/bin/activate
-docker compose -f docker/docker-compose.yml restart airflow
-docker compose -f docker/docker-compose.yml restart airflow
-docker exec -it airflow python /opt/airflow/pipelines/transformations/revenue_by_category.py
-docker exec -it airflow python /opt/airflow/pipelines/transformations/revenue_by_category.py\ndocker exec -it airflow python /opt/airflow/pipelines/transformations/customer_metrics.py\ndocker exec -it airflow python /opt/airflow/pipelines/transformations/product_metrics.py
-docker compose -f docker/docker-compose.yml restart airflow
-docker compose -f docker/docker-compose.yml restart airflow
+# ingestion
+docker exec -it airflow python /opt/airflow/pipelines/ingestion/ingest_products.py
+docker exec -it airflow python /opt/airflow/pipelines/ingestion/ingest_customers.py
+docker exec -it airflow python /opt/airflow/pipelines/ingestion/ingest_orders_enriched.py
+
+# transformations
+docker exec -it airflow python /opt/airflow/pipelines/transformations/sales_pipelines.py
+docker exec -it airflow python /opt/airflow/pipelines/transformations/customer_metrics.py
+docker exec -it airflow python /opt/airflow/pipelines/transformations/product_metrics.py
+
 streamlit run dashboard/streamlit_app1.py
