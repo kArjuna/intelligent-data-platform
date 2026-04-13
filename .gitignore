@@ -18,8 +18,8 @@
 # # Mac
 # .DS_Store
 
-data/
-output/
+# data/
+# output/
 venv/
 __pycache__/
 *.pyc
