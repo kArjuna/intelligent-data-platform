@@ -17,14 +17,16 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: "3.11"
 
-      - name: Install Python dependencies
+      - name: Upgrade pip
+        run: python -m pip install --upgrade pip
+
+      - name: Install dependencies
         run: |
-          python -m pip install --upgrade pip
-          pip install pytest pandas pyarrow neo4j streamlit
+          pip install pytest pandas pyarrow neo4j streamlit kafka-python
 
-      - name: Run unit tests
+      - name: Run tests
         run: |
           pytest tests || true
 
